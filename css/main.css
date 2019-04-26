@@ -75,10 +75,11 @@ ul.posts li {
 
 .container {
     left: 20px;
+    right: 20px;
     line-height: 5px;
     margin: auto;
     margin-top: -5px;
     position: absolute;
-    top: 70%;
+    top: 100%;
     width: 60%;
 }
