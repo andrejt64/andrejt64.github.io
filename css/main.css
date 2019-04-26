@@ -1,6 +1,6 @@
 body {
     margin: 40px;
-    text-align: center;
+    text-align: justify;
     width: 60%;
 }
 nav ul, footer ul {
@@ -71,4 +71,13 @@ ul.posts li {
   80% { transform: translate(-1px, -1px) rotate(1deg); }
   90% { transform: translate(1px, 2px) rotate(0deg); }
   100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
 }
