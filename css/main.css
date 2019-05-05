@@ -5,7 +5,7 @@ body {
     width: 60%;
 }
 nav ul, footer ul {
-    font-family:'Gill Sans', 'Sans-Serif';
+    font-family:'Trebuchet MS', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: normal;
@@ -23,17 +23,17 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family:'Gill Sans', 'Sans-Serif';
+    font-family:'Trebuchet MS', sans-serif;
 }
 
 h2 {
     margin-top: 20px;
     font-size: 2em;
-    font-family:'Gill Sans', 'Sans-Serif';
+    font-family:'Trebuchet MS', sans-serif;
 }
 p {
     font-size: 1em;
-    font-family:'Gill Sans', 'Sans-Serif';
+    font-family:'Trebuchet MS', sans-serif;
     line-height: 1.4em;
     color: #333;
 }
