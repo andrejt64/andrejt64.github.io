@@ -1,4 +1,5 @@
 body {
+    padding-top: 25px;
     margin: 40px;
     margin-top: 200px;
     text-align: justify;
@@ -27,6 +28,7 @@ h1 {
 }
 
 h2 {
+    padding-top: 25px;
     margin-top: 20px;
     font-size: 2em;
     font-family:'Trebuchet MS', sans-serif;
