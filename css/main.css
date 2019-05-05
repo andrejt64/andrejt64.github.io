@@ -34,10 +34,15 @@ h2 {
     font-family:'Trebuchet MS', sans-serif;
 }
 p {
+    margin-top: 0px; 
+    margin-bottom: 0px;
     font-size: 1em;
     font-family:'Trebuchet MS', sans-serif;
     line-height: 1.4em;
     color: #333;
+}
+p.small {
+  font-variant: small-caps;
 }
 footer {
         font-size: 1em;
