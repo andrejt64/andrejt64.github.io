@@ -6,7 +6,7 @@ body {
     width: 60%;
 }
 nav ul, footer ul {
-    font-family:'Cardo', serif;
+    font-family:'Bodoni MT', serif;
     padding: 0px;
     list-style: none;
     font-weight: normal;
@@ -37,7 +37,7 @@ p {
     margin-top: 0px; 
     margin-bottom: 0px;
     font-size: 1em;
-    font-family:'Cardo', serif;
+    font-family:'Bodoni MT', serif;
     line-height: 1.4em;
     color: #333;
 }
