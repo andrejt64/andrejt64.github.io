@@ -6,7 +6,7 @@ body {
     width: 60%;
 }
 nav ul, footer ul {
-    font-family:'Palatino', serif;
+    font-family:'Gill Sans MT', serif;
     padding: 0px;
     list-style: none;
     font-weight: normal;
@@ -39,7 +39,7 @@ p {
     margin-top: 0px; 
     margin-bottom: 0px;
     font-size: 1em;
-    font-family:'Palatino', serif;
+    font-family:'Gill Sans MT', serif;
     line-height: 1em;
     color: #333;
 }
